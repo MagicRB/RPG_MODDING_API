@@ -1,0 +1,1 @@
+ -LF:/Projects/C++/RPG_MODDING_API/link_win32 -lsfml-window-2 -lsfml-graphics-2 -lsfml-system-2 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

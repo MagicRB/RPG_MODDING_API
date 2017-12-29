@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/Projects/C++/RPG_MODDING_API/build/default",
+  "command": "F:/Programs/MinGW/mingw64/bin/g++.exe  -DRPG_MODDING_API_EXPORTS @CMakeFiles/RPG_MODDING_API.dir/includes_CXX.rsp   -std=gnu++11 -o CMakeFiles/RPG_MODDING_API.dir/src/ModdingAPI.cpp.obj -c F:/Projects/C++/RPG_MODDING_API/src/ModdingAPI.cpp",
+  "file": "F:/Projects/C++/RPG_MODDING_API/src/ModdingAPI.cpp"
+},
+{
+  "directory": "F:/Projects/C++/RPG_MODDING_API/build/default",
+  "command": "F:/Programs/MinGW/mingw64/bin/g++.exe  -DRPG_MODDING_API_EXPORTS @CMakeFiles/RPG_MODDING_API.dir/includes_CXX.rsp   -std=gnu++11 -o CMakeFiles/RPG_MODDING_API.dir/src/TextureManager.cpp.obj -c F:/Projects/C++/RPG_MODDING_API/src/TextureManager.cpp",
+  "file": "F:/Projects/C++/RPG_MODDING_API/src/TextureManager.cpp"
+}
+]
